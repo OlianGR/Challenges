@@ -1,8 +1,8 @@
 # 🐍 **Python Challenges** 💻
 _Repository of coding challenges and exercises solved in Python._
 
-![Python Challenges Cover]() (C:\Users\jpere\OneDrive\Escritorio\Angel\Informatica\VIRTUAL STUDIO\Curso Python\retos\assets
-)
+![Python Challenges Cover](./assets/python.png) 
+
 
 
 
