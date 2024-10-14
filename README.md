@@ -5,7 +5,6 @@ _Repository of coding challenges and exercises solved in Python._
 
 
 
-
 ---
 
 ## 🎯 **About this Repository**
@@ -13,15 +12,8 @@ Welcome to my collection of Python programming challenges! Each exercise is desi
 
 ---
 
-## 📁 **Project Structure**
-```bash
-.
-├── challenge_1/
-│   ├── 01_retos.py
-│   └── README.md
-├── challenge_2/
-│   ├── 02_retos.py
-│   └── README.md
-└── ...
+## 🤝 **Contributing**
+Feel free to fork this repository, add your own challenges or improve the existing solutions. Contributions are more than welcome! 🌿
+
 
 🌵 _Happy coding!_ 🐢
