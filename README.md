@@ -1,6 +1,8 @@
 # 🐍 **Python Challenges** 💻
 _Repository of coding challenges and exercises solved in Python._
 
+![Python Challenges Cover]() (./assets/photo_python_challenges.webp)
+
 
 
 ---
