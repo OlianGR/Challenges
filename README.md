@@ -17,10 +17,10 @@ Welcome to my collection of Python programming challenges! Each exercise is desi
 ```bash
 .
 ├── challenge_1/
-│   ├── solution.py
+│   ├── 01_retos.py
 │   └── README.md
 ├── challenge_2/
-│   ├── solution.py
+│   ├── 02_retos.py
 │   └── README.md
 └── ...
 
